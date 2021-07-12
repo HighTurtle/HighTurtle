@@ -1,4 +1,6 @@
 ### Hi there 👋
+### This profile was created around the end of 2018 to compete in the Terminal_> competition.
+### That was the last time this profile saw use until now!
 
 <!--
 **HighTurtle/HighTurtle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
